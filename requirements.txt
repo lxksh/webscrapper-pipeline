@@ -1,0 +1,20 @@
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# Scraping
+scrapy==2.11.0
+scrapy-user-agents==0.1.1
+
+# Task Queue
+celery==5.3.4
+redis==5.0.1
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
